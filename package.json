@@ -1,0 +1,10 @@
+{
+  "name": "@freight-trust/instruments",
+  "version": "0.0.7",
+  "description": "freight trust instruments",
+  "main": "index.js",
+  "repository": "https://github.com/freight-trust/instruments.git",
+  "author": "sam@freighttrust.com <sam@freighttrust.com>",
+  "license": "MPL-2.0",
+  "private": false
+}

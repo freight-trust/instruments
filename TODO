@@ -1,0 +1,15 @@
+TODO
+
+07/07/2020
+Following Scripts to be added in stable release
+
+    "build": "yarn run compile && yarn run typechain",
+    "compile": "buidler compile",
+    "coverage": "buidler coverage --solcoverjs ./.solcover.js --network coverage --temp artifacts --testfiles './test/**/*.ts'",
+    "clean": "buidler clean",
+    "test": "buidler test",
+    "typechain": "buidler typechain"
+    "ts-generator": "^0.0.8",
+    "ts-node": "^8.10.2",
+    "typechain": "^2.0.0",
+    "typescript": "^3.9.6"
